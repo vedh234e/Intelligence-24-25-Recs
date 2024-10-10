@@ -19,28 +19,7 @@ The repository is organized as follows:
 
 ## Instructions 📝
 
-1. **Fork the Repository** 🍴: Start by forking this repository to your own GitHub account. Ensure it is **PRIVATE**.
 
-2. **Task Completion** ✅:
-   - For each task, create a notebook with your solution.
-   - Add your notebook to the corresponding task folder in your forked repository.
+TASK1A
 
-3. **Task 1 (Kaggle Competition)** 🏆:
-   - Task 1 consists of two subtasks (1A and 1B) available on Kaggle.
-   - You only need to complete one of these subtasks.
-   - Participate in the Kaggle competition before submitting your notebook to this repository.
-
-4. **Task 2 (Polyphasic Task)** 🔄:
-   - Follow the detailed instructions provided within the Task 2 folder.
-
-5. **Task 3 (Intersig Task)** 🤝:
-   - Only attempt this task after completing Task 1 and Task 2.
-   - Follow the specific instructions provided for the intersig task.
-6. **Evaluators** : Add following as collaborators:
-    `Bhuvanesh-Singla`, `Aryan-Herur`, `typos12onlr`, `Hayden-Soares`, `S0urTamarind`, `05kashyap`.
-
-Good luck with your tasks!
-
-Feel free to approach any of the seniors in the group for any support needed.
-
-🍀 We look forward to seeing your innovative solutions and creative approaches to these challenges. 💪💻
+In this script, we fine-tuned a pretrained EfficientNet-B0 model for binary image classification using PyTorch. We prepared and augmented image data, replaced the model's classification layer to output a single value, and trained it using BCEWithLogitsLoss with the Adam optimizer. The model's accuracy and loss were tracked during training, and the final weights were saved for future use.
