@@ -8,17 +8,6 @@ Table of Contents
 
     Task 1 - Kaggle Competition
         Subtask 1.1 - Computer Vision
-        Subtask 1.2 - NLP
-
-    Task 2 - Underwater Image Enhancement Project
-        Subtask 2.1 - Variational Autoencoders
-        Subtask 2.2 - GAN on MNIST
-        Subtask 2.3 - GAN on Given Dataset
-        Subtask 2.4 - Diffusion Model
-
-    Task 3 - RAG System
-
-
 
 TASK1A
 
