@@ -1,7 +1,7 @@
 # Intelligence SIG Recruitments 24-25
 
 Intelligence-24-25 Recruitment Submission
-By Vishruth V Srivatsa (231DS034)
+By Vedh Adla (231AI004)
 
 This repository contains my completed recruitment task, divided into three main sections. Each task has been broken down into subtasks, with detailed instructions and outputs documented in the individual README files within the respective task directories.
 Table of Contents
