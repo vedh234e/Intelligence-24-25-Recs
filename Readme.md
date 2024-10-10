@@ -1,23 +1,23 @@
 # Intelligence SIG Recruitments 24-25
 
-Welcome to the Intelligence SIG Recruitments for 2024-2025! 🎉 We're excited to have you join our community of ML enthusiasts. This repository contains a series of tasks designed to challenge and enhance your machine learning skills. Let's embark on this journey of exploration and learning together. 🚀
+Intelligence-24-25 Recruitment Submission
+By Vishruth V Srivatsa (231DS034)
 
-## Task Structure 📁
+This repository contains my completed recruitment task, divided into three main sections. Each task has been broken down into subtasks, with detailed instructions and outputs documented in the individual README files within the respective task directories.
+Table of Contents
 
-The repository is organized as follows:
+    Task 1 - Kaggle Competition
+        Subtask 1.1 - Computer Vision
+        Subtask 1.2 - NLP
 
-- `Tasks/`
-  - `Task1/` 
-    - `Task1A/`
-        - Computer Vision
-    - `Task1B/`
-        - Natural Language Processing
-  - `Task2/` 
-    - Polyphasic task
-  - `Task3/` 
-    - Intersig task
+    Task 2 - Underwater Image Enhancement Project
+        Subtask 2.1 - Variational Autoencoders
+        Subtask 2.2 - GAN on MNIST
+        Subtask 2.3 - GAN on Given Dataset
+        Subtask 2.4 - Diffusion Model
 
-## Instructions 📝
+    Task 3 - RAG System
+
 
 
 TASK1A
